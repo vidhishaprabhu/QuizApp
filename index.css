@@ -1,0 +1,37 @@
+.foot
+{
+  background-color: aqua;
+}
+.header
+{
+  border: 2px solid red;
+  text-align: center;
+  
+}
+.content
+{
+  border: 2px solid red;
+  color:red;
+}
+.question
+{
+  border: 2px solid red;
+  color:red;
+  padding-left: 10px;
+}
+.footer
+{
+  background-color: orange;
+  color:red;
+  border: 2px solid red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.submit
+{
+  margin-bottom: 10px;
+  margin-left: 580px;
+  padding:20px 20px 20px 20px;
+  background-color: blanchedalmond;
+  color: red;
+}
